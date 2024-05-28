@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from .forms import AlumnoForm
-from .models import ALumno
+from .models import Alumno
 # Create your views here.
 def crear_alumno(request):
     if request.method == 'POST':
@@ -13,5 +13,5 @@ def crear_alumno(request):
     return render(request, 'colegio/crear_alumno.html', {'form':form})
 
 def lista_alumnos(request):
-    alumnos = ALumno.objects.all()
+    alumnos = Alumno.objects.all()
     return render(request, 'colegio/lista_alumnos.html', {'alumnos': alumnos})

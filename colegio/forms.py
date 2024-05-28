@@ -1,5 +1,5 @@
-from django import form
-from .models import ALumno
+from django import forms
+from .models import Alumno
 
 class AlumnoForm(forms.ModelForm):
     nombre = forms.CharField(max_length=255, label='Nombre del Alumno')
