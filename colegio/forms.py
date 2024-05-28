@@ -18,3 +18,8 @@ class CursoForm(forms.ModelForm):
     class Meta:
         model = Curso
         fields = ['curso']
+
+class NotaForm(forms.ModelForm):
+    class Meta:
+        model = Nota
+        fields = ['alumno', 'curso', 'nota', 'nota2', 'nota3']
