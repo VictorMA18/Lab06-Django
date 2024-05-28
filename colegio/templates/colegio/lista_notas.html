@@ -1,0 +1,32 @@
+<!-- templates/notas/lista_notas.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Notas</title>
+</head>
+<body>
+    <h1>Lista de Notas</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th> Alumno </th>
+                <th> Curso </th>
+                <th> Nota 1 </th>
+                <th> Nota 2 </th>
+                <th> Nota 3 </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for nota in notas %}
+            <tr>
+                <td>{{ nota.alumno.nombre }}</td>
+                <td>{{ nota.curso.curso }}</td>
+                <td>{{ nota.nota }}</td>
+                <td>{{ nota.nota2 }}</td>
+                <td>{{ nota.nota3 }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
