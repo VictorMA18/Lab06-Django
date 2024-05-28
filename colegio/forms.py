@@ -1,5 +1,5 @@
 from django import forms
-from .models import Alumno
+from .models import Alumno, Curso, Nota
 
 class AlumnoForm(forms.ModelForm):
     nombre = forms.CharField(max_length=255, label='Nombre del Alumno')
@@ -13,3 +13,8 @@ class AlumnoForm(forms.ModelForm):
         if commit:
             alumno.save()
         return alumno
+
+class CursoForm(forms.ModelForm):
+    class Meta:
+        model = Curso
+        fields = ['curso']
