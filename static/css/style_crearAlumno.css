@@ -1,0 +1,48 @@
+*{
+    background-color: antiquewhite;
+    margin: 0;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 30ch;
+    margin-bottom: 30ch;
+}
+
+h1{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+label{
+    font-size: 18px;
+    padding: 8px;
+    font-weight: bold;
+}
+input{
+    background-color: white;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    padding: 8px;
+}
+button{
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 15px;
+    background-color: white ;
+    margin-bottom: 15px;
+    margin-left: 40%;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+    transition: 0.5s;
+}
+a{
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+    text-decoration: none;
+}
