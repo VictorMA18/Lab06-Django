@@ -1,33 +1,36 @@
-<!-- templates/notas/lista_notas.html -->
+{% load static %}
 <!DOCTYPE html>
 <html>
 <head>
     <title>Lista de Notas</title>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/style_table.css'%}"></link>
 </head>
 <body>
-    <h1>Lista de Notas</h1>
-    <table border="1">
-        <thead>
-            <tr>
-                <th> Alumno </th>
-                <th> Curso </th>
-                <th> Nota 1 </th>
-                <th> Nota 2 </th>
-                <th> Nota 3 </th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for nota in notas %}
-            <tr>
-                <td>{{ nota.alumno.nombre }}</td>
-                <td>{{ nota.curso.curso }}</td>
-                <td>{{ nota.nota }}</td>
-                <td>{{ nota.nota2 }}</td>
-                <td>{{ nota.nota3 }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
-    <a href="{% url 'crear_nota' %}">Crear nueva nota</a>
+    <div class="content">
+        <h1>Lista de Notas</h1>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th> Alumno </th>
+                    <th> Curso </th>
+                    <th> Nota 1 </th>
+                    <th> Nota 2 </th>
+                    <th> Nota 3 </th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for nota in notas %}
+                <tr>
+                    <td>{{ nota.alumno.nombre }}</td>
+                    <td>{{ nota.curso.curso }}</td>
+                    <td>{{ nota.nota }}</td>
+                    <td>{{ nota.nota2 }}</td>
+                    <td>{{ nota.nota3 }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="{% url 'crear_nota' %}">Crear nueva nota</a>
+    </div>
 </body>
 </html>
