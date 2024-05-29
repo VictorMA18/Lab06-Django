@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.27)  28 MAY 2024 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.4.27)  29 MAY 2024 09:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -498,128 +498,364 @@ Package hyperref Warning: Suppressing link with empty target on input line 95.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/web_programming.png> <./img/Django.jpg>]
-Overfull \hbox (15.4789pt too wide) in paragraph at lines 105--106
+<img/imagen1.jpeg, id=17, 909.3975pt x 534.99875pt>
+File: img/imagen1.jpeg Graphic file (type jpg)
+<use img/imagen1.jpeg>
+Package pdftex.def Info: img/imagen1.jpeg  used on input line 103.
+(pdftex.def)             Requested size: 318.66948pt x 187.47278pt.
+<img/imagen2.jpeg, id=18, 793.96625pt x 623.32875pt>
+File: img/imagen2.jpeg Graphic file (type jpg)
+<use img/imagen2.jpeg>
+Package pdftex.def Info: img/imagen2.jpeg  used on input line 111.
+(pdftex.def)             Requested size: 318.66948pt x 250.18309pt.
+
+Overfull \hbox (15.4789pt too wide) in paragraph at lines 108--113
 \OT1/cmr/m/n/10 crear-alumno(request) ma-ne-ja la crea-ci^^Son de nue-vos re-gis-tros de alum-nos, mien-tras que lista-alumnos(request)
  []
 
-<img/logo_unsa.png, id=17, 365.4453pt x 122.6181pt>
+<img/logo_unsa.png, id=19, 365.4453pt x 122.6181pt>
 File: img/logo_unsa.png Graphic file (type png)
 <use img/logo_unsa.png>
-Package pdftex.def Info: img/logo_unsa.png  used on input line 121.
+Package pdftex.def Info: img/logo_unsa.png  used on input line 114.
 (pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
-<img/logo_episunsa.png, id=18, 195.73125pt x 58.2175pt>
+<img/logo_episunsa.png, id=20, 195.73125pt x 58.2175pt>
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 121.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 114.
 (pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.121 \singlespacing
-                     [1 <./img/logo_unsa.png> <./img/logo_episunsa.png>] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+l.114 
+       [1pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.114 
+       <./img/logo_unsa.png> <./img/logo_episunsa.png> <./img/imagen1.jpeg>]
+<img/imagen3.jpeg, id=32, 791.95876pt x 392.46625pt>
+File: img/imagen3.jpeg Graphic file (type jpg)
+<use img/imagen3.jpeg>
+Package pdftex.def Info: img/imagen3.jpeg  used on input line 117.
+(pdftex.def)             Requested size: 318.66948pt x 157.9239pt.
+<img/imagen4.jpeg, id=33, 737.75626pt x 577.15625pt>
+File: img/imagen4.jpeg Graphic file (type jpg)
+<use img/imagen4.jpeg>
+Package pdftex.def Info: img/imagen4.jpeg  used on input line 125.
+(pdftex.def)             Requested size: 318.66948pt x 249.29959pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 128.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 128.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [2pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.128 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.128 
+       <./img/imagen2.jpeg> <./img/imagen3.jpeg>]
+<img/imagen5.jpeg, id=41, 704.6325pt x 255.95625pt>
+File: img/imagen5.jpeg Graphic file (type jpg)
+<use img/imagen5.jpeg>
+Package pdftex.def Info: img/imagen5.jpeg  used on input line 133.
+(pdftex.def)             Requested size: 318.66948pt x 115.75336pt.
+<img/imagen6.jpeg, id=42, 566.115pt x 202.7575pt>
+File: img/imagen6.jpeg Graphic file (type jpg)
+<use img/imagen6.jpeg>
+Package pdftex.def Info: img/imagen6.jpeg  used on input line 141.
+(pdftex.def)             Requested size: 318.66948pt x 114.13434pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 143.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 143.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [3pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.143 \end{figure}
+                  pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.143 \end{figure}
+                   <./img/imagen4.jpeg> <./img/imagen5.jpeg>]
+<img/imagen7.jpeg, id=51, 968.61874pt x 434.62375pt>
+File: img/imagen7.jpeg Graphic file (type jpg)
+<use img/imagen7.jpeg>
+Package pdftex.def Info: img/imagen7.jpeg  used on input line 150.
+(pdftex.def)             Requested size: 318.66948pt x 142.98857pt.
+<img/CrearAlumno.png, id=52, 492.84125pt x 305.14pt>
+File: img/CrearAlumno.png Graphic file (type png)
+<use img/CrearAlumno.png>
+Package pdftex.def Info: img/CrearAlumno.png  used on input line 156.
+(pdftex.def)             Requested size: 318.66948pt x 197.30965pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 159.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 159.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.159 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.159 
+       <./img/imagen6.jpeg> <./img/imagen7.jpeg>]
+<img/imagen10.jpeg, id=61, 914.41624pt x 430.60875pt>
+File: img/imagen10.jpeg Graphic file (type jpg)
+<use img/imagen10.jpeg>
+Package pdftex.def Info: img/imagen10.jpeg  used on input line 163.
+(pdftex.def)             Requested size: 318.66948pt x 150.06482pt.
+<img/ListaAlumnos.png, id=62, 506.89375pt x 334.24875pt>
+File: img/ListaAlumnos.png Graphic file (type png)
+<use img/ListaAlumnos.png>
+Package pdftex.def Info: img/ListaAlumnos.png  used on input line 169.
+(pdftex.def)             Requested size: 318.66948pt x 210.13919pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 172.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 172.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.172 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.172 
+       <./img/CrearAlumno.png> <./img/imagen10.jpeg>]
+<img/imagen8.jpeg, id=71, 954.56625pt x 432.61626pt>
+File: img/imagen8.jpeg Graphic file (type jpg)
+<use img/imagen8.jpeg>
+Package pdftex.def Info: img/imagen8.jpeg  used on input line 176.
+(pdftex.def)             Requested size: 318.66948pt x 144.4207pt.
+<img/CrearCurso.png, id=72, 506.89375pt x 334.24875pt>
+File: img/CrearCurso.png Graphic file (type png)
+<use img/CrearCurso.png>
+Package pdftex.def Info: img/CrearCurso.png  used on input line 182.
+(pdftex.def)             Requested size: 318.66948pt x 210.13919pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 185.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 185.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [6pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.185 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.185 
+       <./img/ListaAlumnos.png> <./img/imagen8.jpeg>]
+<img/imagen11.jpeg, id=82, 909.3975pt x 431.6125pt>
+File: img/imagen11.jpeg Graphic file (type jpg)
+<use img/imagen11.jpeg>
+Package pdftex.def Info: img/imagen11.jpeg  used on input line 189.
+(pdftex.def)             Requested size: 318.66948pt x 151.24445pt.
+<img/ListaCursos.png, id=83, 506.89375pt x 334.24875pt>
+File: img/ListaCursos.png Graphic file (type png)
+<use img/ListaCursos.png>
+Package pdftex.def Info: img/ListaCursos.png  used on input line 195.
+(pdftex.def)             Requested size: 318.66948pt x 210.13919pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 198.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 198.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.198 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.198 
+       <./img/CrearCurso.png> <./img/imagen11.jpeg>]
+<img/imagen9.jpeg, id=92, 945.5325pt x 439.6425pt>
+File: img/imagen9.jpeg Graphic file (type jpg)
+<use img/imagen9.jpeg>
+Package pdftex.def Info: img/imagen9.jpeg  used on input line 202.
+(pdftex.def)             Requested size: 318.66948pt x 148.17503pt.
+<img/CrearNota.png, id=93, 520.94624pt x 496.85625pt>
+File: img/CrearNota.png Graphic file (type png)
+<use img/CrearNota.png>
+Package pdftex.def Info: img/CrearNota.png  used on input line 208.
+(pdftex.def)             Requested size: 318.66948pt x 303.93098pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 211.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 211.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.211 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.211 
+       <./img/ListaCursos.png> <./img/imagen9.jpeg>]
+<img/imagen12.jpeg, id=102, 765.86125pt x 677.53125pt>
+File: img/imagen12.jpeg Graphic file (type jpg)
+<use img/imagen12.jpeg>
+Package pdftex.def Info: img/imagen12.jpeg  used on input line 216.
+(pdftex.def)             Requested size: 318.66948pt x 281.91458pt.
+File: img/logo_unsa.png Graphic file (type png)
+<use img/logo_unsa.png>
+Package pdftex.def Info: img/logo_unsa.png  used on input line 219.
+(pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
+File: img/logo_episunsa.png Graphic file (type png)
+<use img/logo_episunsa.png>
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 219.
+(pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.219 
+       <./img/CrearNota.png>]
+<img/ListaNotas.png, id=109, 590.205pt x 413.545pt>
+File: img/ListaNotas.png Graphic file (type png)
+<use img/ListaNotas.png>
+Package pdftex.def Info: img/ListaNotas.png  used on input line 222.
+(pdftex.def)             Requested size: 318.66948pt x 223.28572pt.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 File: img/logo_unsa.png Graphic file (type png)
 <use img/logo_unsa.png>
-Package pdftex.def Info: img/logo_unsa.png  used on input line 154.
+Package pdftex.def Info: img/logo_unsa.png  used on input line 228.
 (pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 154.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 228.
 (pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
- [2]
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:164: Too many }'s.
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.228 \begin{lstlisting}[language=bash]
+                                       pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.228 \begin{lstlisting}[language=bash]
+                                        <./img/imagen12.jpeg> <./img/ListaNotas.png>]
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:245: Too many }'s.
 \@endfloatbox ...pagefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.164 \end{figure}
+l.245 \end{figure}
                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:164: Extra \endgroup.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:245: Extra \endgroup.
 \color@endgroup ->\endgraf \endgroup 
                                      
-l.164 \end{figure}
+l.245 \end{figure}
                   
 Things are pretty mixed up, but I think the worst is over.
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:164: Too many }'s.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:245: Too many }'s.
 \color@endbox ->\color@endgroup \egroup 
                                         
-l.164 \end{figure}
+l.245 \end{figure}
                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:164: LaTeX Error: \begin{document} ended by \end{figure}.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:245: LaTeX Error: \begin{document} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 \end{figure}
+l.245 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:164: Extra \endgroup.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:245: Extra \endgroup.
 <recently read> \endgroup 
                           
-l.164 \end{figure}
+l.245 \end{figure}
                   
 Things are pretty mixed up, but I think the worst is over.
 
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:165: LaTeX Error: Lonely \item--perhaps a missing list environment.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:246: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.165 \item \textbf
+l.246 \item \textbf
                    {URL de video de explicación:} \url{}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 165
+Underfull \hbox (badness 10000) detected at line 246
 [][]
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 165.
+(Font)              <7> on input line 246.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 165.
+(Font)              <5> on input line 246.
 
-/home/user/my_Projects/Lab06-Django/latex/django_report.tex:166: LaTeX Error: Lonely \item--perhaps a missing list environment.
+/home/user/my_Projects/Lab06-Django/latex/django_report.tex:247: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 \item \textbf
+l.247 \item \textbf
                    {URL de repositorio de GitHub:} \url{https://github.com/V...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 166
+Underfull \hbox (badness 10000) detected at line 247
 [][]
  []
 
 File: img/logo_unsa.png Graphic file (type png)
 <use img/logo_unsa.png>
-Package pdftex.def Info: img/logo_unsa.png  used on input line 167.
+Package pdftex.def Info: img/logo_unsa.png  used on input line 248.
 (pdftex.def)             Requested size: 113.81102pt x 38.18707pt.
 File: img/logo_episunsa.png Graphic file (type png)
 <use img/logo_episunsa.png>
-Package pdftex.def Info: img/logo_episunsa.png  used on input line 167.
+Package pdftex.def Info: img/logo_episunsa.png  used on input line 248.
 (pdftex.def)             Requested size: 99.58464pt x 29.62035pt.
-[3] (./django_report.aux
+[11] (./django_report.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
@@ -630,21 +866,21 @@ Package rerunfilecheck Warning: File `django_report.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `django_report.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5F96FD691D439361E02B7B7BD5652BC3;2313.
+(rerunfilecheck)             After:  FAC32F0D02BD432F827DBCE40E6E3321;2313.
  ) 
 Here is how much of TeX's memory you used:
- 15697 strings out of 478287
- 260588 string characters out of 5849289
- 806960 words of memory out of 5000000
- 33679 multiletter control sequences out of 15000+600000
+ 15857 strings out of 478287
+ 263506 string characters out of 5849289
+ 812522 words of memory out of 5000000
+ 33792 multiletter control sequences out of 15000+600000
  471246 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,16n,67p,997b,1165s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on django_report.pdf (4 pages, 362061 bytes).
+Output written on django_report.pdf (12 pages, 1207688 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 178 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
