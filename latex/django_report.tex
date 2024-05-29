@@ -227,6 +227,7 @@ El bloque de código configura las rutas principales de la aplicación Django. L
 El comando python manage.py makemigrations colegio se utiliza en Django para crear nuevas migraciones basadas en los cambios realizados en los modelos del aplicativo colegio. Las migraciones son archivos que describen cómo modificar la estructura de la base de datos para mantenerla sincronizada con los modelos de Django. Este comando analiza los modelos en la aplicación colegio y genera los archivos de migración necesarios para aplicar esos cambios a la base de datos.
 \begin{lstlisting}[language=bash]
   python manage.py makemigrations colegio
+  python manage.py migrate
 \end{lstlisting}
 
 El comando python manage.py runserver se utiliza en Django para iniciar el servidor de desarrollo local. Una vez ejecutado, el servidor se activa y permite acceder a la aplicación web en desarrollo a través de un navegador en la dirección http://localhost:8000/ por defecto. Es una herramienta fundamental durante el proceso de desarrollo de aplicaciones web con Django, ya que proporciona un entorno de prueba para probar y depurar el código antes de desplegar la aplicación en un entorno de producción.

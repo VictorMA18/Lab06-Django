@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1716992495 "/home/user/my_Projects/Lab06-Django/latex/django_report.tex" "django_report.pdf" "django_report" 1716992495
+["pdflatex"] 1717001481 "/home/user/my_Projects/Lab06-Django/latex/django_report.tex" "django_report.pdf" "django_report" 1717001481
   "/dev/null" 1716971309 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1695244730 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/user/my_Projects/Lab06-Django/latex/django_report.tex" 1716992494 11036 a215325d75c15481eb476cd508d19376 ""
+  "/home/user/my_Projects/Lab06-Django/latex/django_report.tex" 1717001480 11063 d9bb25069328ed7aab4d363ba6ba933c ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -95,9 +95,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1695244742 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1714196407 2799121 4e2511042be7bc5e9f4c5f197685c55d ""
-  "django_report.aux" 1716992495 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "django_report.aux" 1717001481 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "django_report.out" 0 -1 0 "pdflatex"
-  "django_report.tex" 1716992494 11036 a215325d75c15481eb476cd508d19376 ""
+  "django_report.tex" 1717001480 11063 d9bb25069328ed7aab4d363ba6ba933c ""
   "img/CrearAlumno.png" 1716990901 17099 abc70c392c3dc1cc62eaad611adfb8fa ""
   "img/CrearCurso.png" 1716990938 15057 b0198f55f0d6c425e96f0e88fffe1721 ""
   "img/CrearNota.png" 1716991024 24328 80d11db5778e12facd496c0f94748fde ""
